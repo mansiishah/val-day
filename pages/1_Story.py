@@ -83,4 +83,4 @@ with col1:
 
 with col3:
     if st.button("Next ➡️ 💖", use_container_width=True):
-        st.switch_page("pages/2_Dubai.py")
+        st.switch_page("pages/2_Meet.py")

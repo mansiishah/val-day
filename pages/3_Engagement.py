@@ -65,7 +65,7 @@ col1, col2, col3 = st.columns([2, 4, 2])
 
 with col1:
     if st.button("💗 ⬅️ Previous", use_container_width=True):
-        st.switch_page("pages/2_Dubai.py")
+        st.switch_page("pages/2_Meet.py")
 
 with col3:
     if st.button("Next ➡️ 💖", use_container_width=True):

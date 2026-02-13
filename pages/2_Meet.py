@@ -33,13 +33,13 @@ it felt right.
 Dubai was the catalyst.
 """)
 
-dubai_path = "assets/dubai"
+meet_path = "assets/meet"
 cols = st.columns(3)
-images = sorted(os.listdir(dubai_path))
+images = sorted(os.listdir(meet_path))
 
 for i, img in enumerate(images):
     with cols[i % 3]:
-        st.image(f"{dubai_path}/{img}")
+        st.image(f"{meet_path}/{img}")
 
 st.markdown("""
 ---

@@ -35,13 +35,13 @@ valentine_app/
 │
 ├── pages/
 │ ├── 1_Story.py
-│ ├── 2_Dubai.py
+│ ├── 2_Meet.py
 │ ├── 3_Engagement.py
 │ ├── 4_Forever.py
 │
 ├── assets/
 │ ├── friends/
-│ ├── dubai/
+│ ├── meet/
 │ ├── engagement/
 │ ├── forever/
 │ ├── music/
