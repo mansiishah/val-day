@@ -54,7 +54,7 @@ Official Traits of Chaitanya:
 
 love = st.slider("How much do you love me? 💖", 0, 100, 0)
 if love < 100 and love>0 :
-    st.warning("Hmm… interesting choice. We don’t do partial love here 😌")
+    st.warning("Hmm… we don’t do partial love here 😌 Navigation unlocks at 100%.")
 elif love == 100:
     st.success("We go all in haha 💖🔥")
 
