@@ -20,7 +20,7 @@ st.title("💻🧀 The Mac & Cheese + Programming Era")
 st.markdown("""
 It started with mac and cheese?
 
-You said he would make it for me.
+You said you would make it for me.
 Still pending.
 
 Then came:
